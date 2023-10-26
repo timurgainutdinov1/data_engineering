@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 60.6083,
+        "lat": 56.8391
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 266.99,
+        "feels_like": 259.99,
+        "temp_min": 266.94,
+        "temp_max": 266.99,
+        "pressure": 1017,
+        "humidity": 79
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6,
+        "deg": 290
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1698353633,
+    "sys": {
+        "type": 1,
+        "id": 8985,
+        "country": "RU",
+        "sunrise": 1698375294,
+        "sunset": 1698409670
+    },
+    "timezone": 18000,
+    "id": 1494346,
+    "name": "Posëlok Rabochiy",
+    "cod": 200
+}
