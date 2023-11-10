@@ -1,0 +1,25 @@
+{
+    "sum_value": 11053249242,
+    "average_value": 28594.691079268086,
+    "max_value": 4447374,
+    "min_value": 0,
+    "std_value": 149728.13475017648,
+    "most_common_state": [
+        [
+            "North Dakota",
+            62615
+        ]
+    ],
+    "most_common_border": [
+        [
+            "US-Canada Border",
+            295629
+        ]
+    ],
+    "mode_of_transportation": [
+        [
+            "Personal Vehicles",
+            35967
+        ]
+    ]
+}
