@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import re
-import collections
 import MyModule
 
 
@@ -55,26 +54,23 @@ MyModule.save(items, 1)
 
 # Сортировка списка турниров по рейтингу в порядке возрастания
 items = sorted(items, key=lambda x: x["rating"])
-# print(items)
+MyModule.save(items, 1.1)
 
 # Фильтрация списка турниров по критерию: количество туров не менее 15
 filtered_items = list(filter(lambda x: x['tours_count'] >= 15, items))
-# print(filtered_items)
-# print(len(items))
-# print(len(filtered_items))
+MyModule.save(filtered_items, 1.2)
 
 # Формирование списка из значений рейтингов всех турниров
 rating_values = list(map(lambda x: x['rating'], items))
-# print(rating_values)
 
 # Расчет статистических характеристик
 rating_values_stats = MyModule.calc_stats(rating_values)
-# print(rating_values_stats)
+MyModule.save(rating_values_stats, 1.3)
 
 # Формирование списка из типов турниров
 type_values = list(map(lambda x: x['type'], items))
 # print(type_values)
 
 # Расчет частоты меток в поле 'type'
-type_count = dict(collections.Counter(type_values))
-# print(type_count)
+type_counts = MyModule.properties_count_calc(type_values, 'type')
+MyModule.save(type_counts, 1.4)

@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-import collections
 import MyModule
 
 
@@ -37,26 +36,22 @@ MyModule.save(items, 4)
 
 # Сортировка списка по цене в порядке возрастания
 items = sorted(items, key=lambda x: x["price"])
-# print(items)
+MyModule.save(items, 4.1)
 
 # Фильтрация списка по полю 'material' -> 'Хлопок'
 filtered_items = list(filter(lambda x: x['material'] == 'Хлопок', items))
-# print(filtered_items)
-# print(len(items))
-# print(len(filtered_items))
+MyModule.save(filtered_items, 4.2)
 
 # Формирование списка из значений поля 'reviews'
 reviews_values = list(map(lambda x: x['reviews'], items))
-# print(reviews_values)
 
 # Расчет статистических характеристик
 reviews_values_stats = MyModule.calc_stats(reviews_values)
-# print(reviews_values_stats)
+MyModule.save(reviews_values_stats, 4.3)
 
 # Формирование списка из значений поля 'size'
 sizes = list(map(lambda x: x['size'], items))
-# print(sizes)
 
 # Расчет частоты меток в поле 'size'
-sizes_count = dict(collections.Counter(sizes))
-# print(sizes_count)
+sizes_counts = MyModule.properties_count_calc(sizes, 'size')
+MyModule.save(sizes_counts, 4.4)

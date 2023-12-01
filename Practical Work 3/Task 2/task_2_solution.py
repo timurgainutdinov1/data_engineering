@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
-import collections
 import MyModule
+
 
 def handle_file(file_name):
     items = list()
@@ -40,26 +40,22 @@ MyModule.save(items, 2)
 
 # Сортировка списка по цене в порядке возрастания
 items = sorted(items, key=lambda x: x["price"])
-# print(items)
+MyModule.save(items, 2.1)
 
 # Фильтрация списка по критерию: производитель Lenovo
 filtered_items = list(filter(lambda x: x['model'].split()[1] == 'Lenovo', items))
-# print(filtered_items)
-# print(len(items))
-# print(len(filtered_items))
+MyModule.save(filtered_items, 2.2)
 
 # Формирование списка из значений цен
 prices = list(map(lambda x: x['price'], items))
-# print(prices)
 
 # Расчет статистических характеристик
 prices_stats = MyModule.calc_stats(prices)
-# print(prices_stats)
+MyModule.save(prices_stats, 2.3)
 
 # Формирование списка из всех производителей
 creators = list(map(lambda x: x['model'].split()[1], items))
-# print(creators)
 
 # Расчет частоты производителей
-creators_count = dict(collections.Counter(creators))
-# print(creators_count)
+creators_counts = MyModule.properties_count_calc(creators, 'model')
+MyModule.save(creators_counts, 2.4)

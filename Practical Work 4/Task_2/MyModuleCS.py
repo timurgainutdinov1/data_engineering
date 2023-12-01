@@ -19,5 +19,5 @@ def saving(result, file_name):
     Осуществляет сохранение данных в формат json
     '''
 
-    with open(f'{file_name}.json', 'w') as output_file:
+    with open(f'{file_name}.json', 'w', encoding='utf-8') as output_file:
         json.dump(result, output_file, indent=4, ensure_ascii=False)

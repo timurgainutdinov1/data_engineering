@@ -37,8 +37,8 @@ def load_data_set(file_name):
 
 
 def save_data_json(result, file_name):
-    with open(file_name, 'w') as output_file:
-        json.dump(result, output_file, indent=4)
+    with open(file_name, 'w', encoding='utf-8') as output_file:
+        json.dump(result, output_file, indent=4, ensure_ascii=False)
 
 
 def save_data_pkl(result, file_name):

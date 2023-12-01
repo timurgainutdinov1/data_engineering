@@ -1,0 +1,50 @@
+[
+    {
+        "constellation": "Рыбы",
+        "count": 42
+    },
+    {
+        "constellation": "Стрелец",
+        "count": 37
+    },
+    {
+        "constellation": "Весы",
+        "count": 50
+    },
+    {
+        "constellation": "Дева",
+        "count": 33
+    },
+    {
+        "constellation": "Козерог",
+        "count": 41
+    },
+    {
+        "constellation": "Рак",
+        "count": 44
+    },
+    {
+        "constellation": "Близнецы",
+        "count": 41
+    },
+    {
+        "constellation": "Телец",
+        "count": 34
+    },
+    {
+        "constellation": "Лев",
+        "count": 38
+    },
+    {
+        "constellation": "Скорпион",
+        "count": 50
+    },
+    {
+        "constellation": "Водолей",
+        "count": 42
+    },
+    {
+        "constellation": "Овен",
+        "count": 48
+    }
+]

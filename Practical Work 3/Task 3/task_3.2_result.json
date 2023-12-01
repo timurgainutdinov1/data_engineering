@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Хадар 3192",
+        "constellation": "Овен",
+        "spectral-class": "I8T",
+        "radius": 5631924,
+        "rotation": "98.64 days",
+        "age": "3.9 billion years",
+        "distance": "8357072.17 million km",
+        "absolute-magnitude": "1.87 million km"
+    },
+    {
+        "name": "Полярная звезда 9665",
+        "constellation": "Овен",
+        "spectral-class": "C5J",
+        "radius": 7936784,
+        "rotation": "994.32 days",
+        "age": "3.17 billion years",
+        "distance": "7697293.89 million km",
+        "absolute-magnitude": "3.19 million km"
+    },
+    {
+        "name": "Антарес 9113",
+        "constellation": "Овен",
+        "spectral-class": "S8M",
+        "radius": 18976715,
+        "rotation": "957.86 days",
+        "age": "4.34 billion years",
+        "distance": "6659303.64 million km",
+        "absolute-magnitude": "6.19 million km"
+    },
+    {
+        "name": "Солнце 7593",
+        "constellation": "Овен",
+        "spectral-class": "S8K",
+        "radius": 23906362,
+        "rotation": "871.06 days",
+        "age": "3.91 billion years",
+        "distance": "7739166.91 million km",
+        "absolute-magnitude": "7.2 million km"
+    },
+    {
+        "name": "Солнце 9561",
+        "constellation": "Овен",
+        "spectral-class": "S1P",
+        "radius": 38412767,
+        "rotation": "788.85 days",
+        "age": "3.68 billion years",
+        "distance": "3854488.6 million km",
+        "absolute-magnitude": "4.75 million km"
+    },
+    {
+        "name": "Антарес 9933",
+        "constellation": "Овен",
+        "spectral-class": "W2S",
+        "radius": 38741224,
+        "rotation": "160.22 days",
+        "age": "1.54 billion years",
+        "distance": "5613662.42 million km",
+        "absolute-magnitude": "8.07 million km"
+    },
+    {
+        "name": "Акрукс 7362",
+        "constellation": "Овен",
+        "spectral-class": "L1S",
+        "radius": 75066271,
+        "rotation": "683.91 days",
+        "age": "0.58 billion years",
+        "distance": "7659093.97 million km",
+        "absolute-magnitude": "2.18 million km"
+    },
+    {
+        "name": "Полярная звезда 4626",
+        "constellation": "Овен",
+        "spectral-class": "W7Q",
+        "radius": 77363429,
+        "rotation": "3.31 days",
+        "age": "1.14 billion years",
+        "distance": "2026755.57 million km",
+        "absolute-magnitude": "2.04 million km"
+    },
+    {
+        "name": "Хадар 2149",
+        "constellation": "Овен",
+        "spectral-class": "Q9M",
+        "radius": 117957409,
+        "rotation": "211.66 days",
+        "age": "5.74 billion years",
+        "distance": "3105499.87 million km",
+        "absolute-magnitude": "1.52 million km"
+    },
+    {
+        "name": "Хадар 8588",
+        "constellation": "Овен",
+        "spectral-class": "W6Z",
+        "radius": 146942763,
+        "rotation": "515.23 days",
+        "age": "5.52 billion years",
+        "distance": "568182.63 million km",
+        "absolute-magnitude": "4.79 million km"
+    },
+    {
+        "name": "Канопус 3595",
+        "constellation": "Овен",
+        "spectral-class": "C7L",
+        "radius": 181887294,
+        "rotation": "579.5 days",
+        "age": "4.93 billion years",
+        "distance": "41468.3 million km",
+        "absolute-magnitude": "3.43 million km"
+    },
+    {
+        "name": "Солнце 9716",
+        "constellation": "Овен",
+        "spectral-class": "V5R",
+        "radius": 190922579,
+        "rotation": "563.45 days",
+        "age": "4.51 billion years",
+        "distance": "6432564.24 million km",
+        "absolute-magnitude": "6.27 million km"
+    },
+    {
+        "name": "Альфа Центавра 9500",
+        "constellation": "Овен",
+        "spectral-class": "F7Y",
+        "radius": 193589960,
+        "rotation": "34.29 days",
+        "age": "4.52 billion years",
+        "distance": "790904.19 million km",
+        "absolute-magnitude": "6.93 million km"
+    },
+    {
+        "name": "Антарес 9037",
+        "constellation": "Овен",
+        "spectral-class": "V8X",
+        "radius": 222731778,
+        "rotation": "74.72 days",
+        "age": "3.76 billion years",
+        "distance": "2571312.6 million km",
+        "absolute-magnitude": "3.21 million km"
+    },
+    {
+        "name": "Солнце 9411",
+        "constellation": "Овен",
+        "spectral-class": "W4D",
+        "radius": 232414589,
+        "rotation": "519.5 days",
+        "age": "5.06 billion years",
+        "distance": "7029812.18 million km",
+        "absolute-magnitude": "9.73 million km"
+    },
+    {
+        "name": "Солнце 9996",
+        "constellation": "Овен",
+        "spectral-class": "T0Y",
+        "radius": 232757878,
+        "rotation": "274.46 days",
+        "age": "5.51 billion years",
+        "distance": "7915307.44 million km",
+        "absolute-magnitude": "4.42 million km"
+    },
+    {
+        "name": "Бетельгейзе 2193",
+        "constellation": "Овен",
+        "spectral-class": "F3T",
+        "radius": 270048210,
+        "rotation": "748.3 days",
+        "age": "3.41 billion years",
+        "distance": "8995880.69 million km",
+        "absolute-magnitude": "9.36 million km"
+    },
+    {
+        "name": "Полярная звезда 7471",
+        "constellation": "Овен",
+        "spectral-class": "D7J",
+        "radius": 278073334,
+        "rotation": "513.82 days",
+        "age": "4.51 billion years",
+        "distance": "7258887.91 million km",
+        "absolute-magnitude": "7.97 million km"
+    },
+    {
+        "name": "Хадар 3890",
+        "constellation": "Овен",
+        "spectral-class": "C9O",
+        "radius": 289068082,
+        "rotation": "852.33 days",
+        "age": "2.63 billion years",
+        "distance": "7547601.09 million km",
+        "absolute-magnitude": "3.47 million km"
+    },
+    {
+        "name": "Канопус 1700",
+        "constellation": "Овен",
+        "spectral-class": "O4R",
+        "radius": 314660468,
+        "rotation": "587.25 days",
+        "age": "1.83 billion years",
+        "distance": "313942.53 million km",
+        "absolute-magnitude": "3.3 million km"
+    },
+    {
+        "name": "Хадар 1285",
+        "constellation": "Овен",
+        "spectral-class": "C7F",
+        "radius": 324712915,
+        "rotation": "512.43 days",
+        "age": "4.48 billion years",
+        "distance": "7277346.27 million km",
+        "absolute-magnitude": "9.16 million km"
+    },
+    {
+        "name": "Бетельгейзе 5724",
+        "constellation": "Овен",
+        "spectral-class": "N4N",
+        "radius": 360578551,
+        "rotation": "178.9 days",
+        "age": "0.6 billion years",
+        "distance": "9985553.17 million km",
+        "absolute-magnitude": "5.89 million km"
+    },
+    {
+        "name": "Полярная звезда 6514",
+        "constellation": "Овен",
+        "spectral-class": "M5T",
+        "radius": 360958941,
+        "rotation": "462.25 days",
+        "age": "5.43 billion years",
+        "distance": "435024.86 million km",
+        "absolute-magnitude": "8.69 million km"
+    },
+    {
+        "name": "Солнце 4816",
+        "constellation": "Овен",
+        "spectral-class": "O6M",
+        "radius": 375842236,
+        "rotation": "138.15 days",
+        "age": "5.55 billion years",
+        "distance": "5487291.76 million km",
+        "absolute-magnitude": "9.81 million km"
+    },
+    {
+        "name": "Альфа Центавра 3053",
+        "constellation": "Овен",
+        "spectral-class": "I6C",
+        "radius": 423019193,
+        "rotation": "332.83 days",
+        "age": "1.79 billion years",
+        "distance": "7615069.17 million km",
+        "absolute-magnitude": "7.9 million km"
+    },
+    {
+        "name": "Фомалхаут 8384",
+        "constellation": "Овен",
+        "spectral-class": "R5Q",
+        "radius": 424395160,
+        "rotation": "420.91 days",
+        "age": "1.57 billion years",
+        "distance": "4641932.34 million km",
+        "absolute-magnitude": "8.61 million km"
+    },
+    {
+        "name": "Альфа Центавра 2293",
+        "constellation": "Овен",
+        "spectral-class": "N3T",
+        "radius": 425353022,
+        "rotation": "936.52 days",
+        "age": "2.14 billion years",
+        "distance": "772847.35 million km",
+        "absolute-magnitude": "8.72 million km"
+    },
+    {
+        "name": "Альфа Центавра 7880",
+        "constellation": "Овен",
+        "spectral-class": "A3F",
+        "radius": 458158312,
+        "rotation": "769.25 days",
+        "age": "3.46 billion years",
+        "distance": "740697.12 million km",
+        "absolute-magnitude": "9.73 million km"
+    },
+    {
+        "name": "Фомалхаут 1879",
+        "constellation": "Овен",
+        "spectral-class": "A0O",
+        "radius": 461291323,
+        "rotation": "396.29 days",
+        "age": "1.45 billion years",
+        "distance": "4727894.75 million km",
+        "absolute-magnitude": "2.75 million km"
+    },
+    {
+        "name": "Солнце 5355",
+        "constellation": "Овен",
+        "spectral-class": "Y7W",
+        "radius": 490634692,
+        "rotation": "29.12 days",
+        "age": "0.85 billion years",
+        "distance": "9644347.64 million km",
+        "absolute-magnitude": "9.19 million km"
+    },
+    {
+        "name": "Полярная звезда 3995",
+        "constellation": "Овен",
+        "spectral-class": "C8U",
+        "radius": 493976937,
+        "rotation": "791.51 days",
+        "age": "0.58 billion years",
+        "distance": "4817190.72 million km",
+        "absolute-magnitude": "4.27 million km"
+    },
+    {
+        "name": "Фомалхаут 9499",
+        "constellation": "Овен",
+        "spectral-class": "Q8V",
+        "radius": 536761056,
+        "rotation": "789.21 days",
+        "age": "1.04 billion years",
+        "distance": "7112650.14 million km",
+        "absolute-magnitude": "8.55 million km"
+    },
+    {
+        "name": "Вега 6630",
+        "constellation": "Овен",
+        "spectral-class": "E1W",
+        "radius": 540457601,
+        "rotation": "718.91 days",
+        "age": "2.9 billion years",
+        "distance": "7078330.99 million km",
+        "absolute-magnitude": "2.49 million km"
+    },
+    {
+        "name": "Канопус 1996",
+        "constellation": "Овен",
+        "spectral-class": "N4U",
+        "radius": 605303254,
+        "rotation": "466.84 days",
+        "age": "0.81 billion years",
+        "distance": "8908526.78 million km",
+        "absolute-magnitude": "7.63 million km"
+    },
+    {
+        "name": "Полярная звезда 8471",
+        "constellation": "Овен",
+        "spectral-class": "P6Y",
+        "radius": 624491564,
+        "rotation": "392.69 days",
+        "age": "4.95 billion years",
+        "distance": "8454552.79 million km",
+        "absolute-magnitude": "7.2 million km"
+    },
+    {
+        "name": "Солнце 7658",
+        "constellation": "Овен",
+        "spectral-class": "V5L",
+        "radius": 653217651,
+        "rotation": "889.65 days",
+        "age": "2.09 billion years",
+        "distance": "366414.85 million km",
+        "absolute-magnitude": "5.38 million km"
+    },
+    {
+        "name": "Солнце 9288",
+        "constellation": "Овен",
+        "spectral-class": "I7U",
+        "radius": 739771613,
+        "rotation": "564.55 days",
+        "age": "4.23 billion years",
+        "distance": "9663796.68 million km",
+        "absolute-magnitude": "4.62 million km"
+    },
+    {
+        "name": "Альфа Центавра 4997",
+        "constellation": "Овен",
+        "spectral-class": "O3S",
+        "radius": 746765153,
+        "rotation": "694.32 days",
+        "age": "5.44 billion years",
+        "distance": "3123534.2 million km",
+        "absolute-magnitude": "2.0 million km"
+    },
+    {
+        "name": "Канопус 1833",
+        "constellation": "Овен",
+        "spectral-class": "Y4T",
+        "radius": 762850105,
+        "rotation": "901.42 days",
+        "age": "3.62 billion years",
+        "distance": "8725644.24 million km",
+        "absolute-magnitude": "3.37 million km"
+    },
+    {
+        "name": "Солнце 4523",
+        "constellation": "Овен",
+        "spectral-class": "S0Z",
+        "radius": 831985061,
+        "rotation": "319.22 days",
+        "age": "1.05 billion years",
+        "distance": "7332263.13 million km",
+        "absolute-magnitude": "5.45 million km"
+    },
+    {
+        "name": "Бетельгейзе 1557",
+        "constellation": "Овен",
+        "spectral-class": "M0N",
+        "radius": 841418747,
+        "rotation": "699.4 days",
+        "age": "0.94 billion years",
+        "distance": "2383056.19 million km",
+        "absolute-magnitude": "7.19 million km"
+    },
+    {
+        "name": "Альфа Центавра 9741",
+        "constellation": "Овен",
+        "spectral-class": "R5Z",
+        "radius": 844321144,
+        "rotation": "951.38 days",
+        "age": "2.41 billion years",
+        "distance": "3554671.72 million km",
+        "absolute-magnitude": "7.17 million km"
+    },
+    {
+        "name": "Канопус 6031",
+        "constellation": "Овен",
+        "spectral-class": "S5D",
+        "radius": 856321747,
+        "rotation": "302.01 days",
+        "age": "5.61 billion years",
+        "distance": "3385135.2 million km",
+        "absolute-magnitude": "1.11 million km"
+    },
+    {
+        "name": "Полярная звезда 2762",
+        "constellation": "Овен",
+        "spectral-class": "R0E",
+        "radius": 865351831,
+        "rotation": "878.52 days",
+        "age": "3.11 billion years",
+        "distance": "5293772.2 million km",
+        "absolute-magnitude": "5.51 million km"
+    },
+    {
+        "name": "Бетельгейзе 9420",
+        "constellation": "Овен",
+        "spectral-class": "Y8A",
+        "radius": 894915682,
+        "rotation": "261.07 days",
+        "age": "5.55 billion years",
+        "distance": "8335313.84 million km",
+        "absolute-magnitude": "5.57 million km"
+    },
+    {
+        "name": "Фомальгаут 3317",
+        "constellation": "Овен",
+        "spectral-class": "Q4D",
+        "radius": 915096118,
+        "rotation": "44.87 days",
+        "age": "1.56 billion years",
+        "distance": "515988.16 million km",
+        "absolute-magnitude": "7.26 million km"
+    },
+    {
+        "name": "Бетельгейзе 1139",
+        "constellation": "Овен",
+        "spectral-class": "O8L",
+        "radius": 970351872,
+        "rotation": "181.76 days",
+        "age": "2.82 billion years",
+        "distance": "1670182.94 million km",
+        "absolute-magnitude": "9.44 million km"
+    },
+    {
+        "name": "Полярная звезда 4600",
+        "constellation": "Овен",
+        "spectral-class": "P3H",
+        "radius": 977466812,
+        "rotation": "613.73 days",
+        "age": "5.42 billion years",
+        "distance": "8635620.15 million km",
+        "absolute-magnitude": "7.14 million km"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "manufacturer_country": "Россия",
+        "brand": "VICTORIA STENOVA",
+        "factory": "МАЯКПРИНТ",
+        "trademark": "Victoria Stenova",
+        "collection": "Феррара",
+        "type": "виниловые",
+        "backing": "флизелин",
+        "width_m": 1.06,
+        "length_m": 10,
+        "color": "серый",
+        "spread_cm": "64",
+        "design": "штукатурка",
+        "package_weight_kg": 16,
+        "number_in_package_roll": 6,
+        "price": 2450
+    },
+    {
+        "manufacturer_country": "Россия",
+        "brand": "VICTORIA STENOVA",
+        "factory": "МАЯКПРИНТ",
+        "trademark": "Victoria Stenova",
+        "collection": "Монако",
+        "type": "виниловые",
+        "backing": "флизелин",
+        "width_m": 1.06,
+        "length_m": 10,
+        "color": "серый",
+        "spread_cm": "64",
+        "design": "штукатурка",
+        "package_weight_kg": 16,
+        "number_in_package_roll": 6,
+        "price": 2450
+    },
+    {
+        "manufacturer_country": "Россия",
+        "brand": "VICTORIA STENOVA",
+        "factory": "МАЯКПРИНТ",
+        "trademark": "Victoria Stenova",
+        "collection": "Феррара",
+        "type": "виниловые",
+        "backing": "флизелин",
+        "width_m": 1.06,
+        "length_m": 10,
+        "color": "серый",
+        "spread_cm": "64",
+        "design": "абстракция",
+        "package_weight_kg": 16,
+        "number_in_package_roll": 6,
+        "price": 2550
+    }
+]

@@ -1,6 +1,4 @@
 from bs4 import BeautifulSoup
-import collections
-import json
 import MyModule
 
 
@@ -39,31 +37,26 @@ with open(f'../Single/links', 'w', encoding="utf-8") as links_file:
     links_file.writelines([string + '\n' for string in links])
 
 # Запись данных в json
-with open(f'task_5_result_multiple.json', 'w') as output_file:
-    json.dump(items, output_file, indent=4, ensure_ascii=False)
+MyModule.save(items, 5)
 
 # Сортировка списка по цене в порядке возрастания
 items = sorted(items, key=lambda x: x["price"])
-# print(items)
+MyModule.save(items, 5.1)
 
 # Фильтрация списка по производителю: BELVINIL
 filtered_items = list(filter(lambda x: x["brand"] == "BELVINIL", items))
-# print(filtered_items)
-# print(len(items))
-# print(len(filtered_items))
+MyModule.save(filtered_items, 5.2)
 
 # Формирование списка из значений цен
 prices = list(map(lambda x: x['price'], items))
-# print(prices)
 
 # Расчет статистических характеристик
 prices_stats = MyModule.calc_stats(prices)
-# print(prices_stats)
+MyModule.save(prices_stats, 5.3)
 
 # Формирование списка из всех производителей
 brands = list(map(lambda x: x['brand'], items))
-# print(brands)
 
 # Расчет частоты производителей
-brands_count = dict(collections.Counter(brands))
-# print(brands_count)
+brand_counts = MyModule.properties_count_calc(brands, 'brand')
+MyModule.save(brand_counts, 5.4)

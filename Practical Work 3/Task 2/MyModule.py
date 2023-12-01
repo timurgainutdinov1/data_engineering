@@ -1,6 +1,7 @@
 import numpy as np
 import json
 import zipfile
+import collections
 
 with zipfile.ZipFile('data.zip', 'r') as zip_ref:
     zip_ref.extractall()
@@ -31,5 +32,21 @@ def save(items, task_num):
     с указанием номера задания
     '''
 
-    with open(f'task_{task_num}_result.json', 'w') as output_file:
+    with open(f'task_{task_num}_result.json', 'w', encoding='utf-8') as output_file:
         json.dump(items, output_file, indent=4, ensure_ascii=False)
+
+
+def properties_count_calc(props, prop):
+    """
+    Подсчитывает частоту встречаемости значений необходимого поля
+    """
+
+    properties_count = dict(collections.Counter(props))
+    items = []
+    for p in set(props):
+        item = dict()
+        item[prop] = p
+        item['count'] = properties_count[p]
+        items.append(item)
+
+    return items

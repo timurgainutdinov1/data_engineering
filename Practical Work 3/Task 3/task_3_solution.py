@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-import collections
 import MyModule
 
 
@@ -35,26 +34,22 @@ MyModule.save(items, 3)
 
 # Сортировка по радиусу в порядке возрастания
 items = sorted(items, key=lambda x: x["radius"])
-# print(items)
+MyModule.save(items, 3.1)
 
 # Фильтрация по полю 'constellation' -> Овен
 filtered_items = list(filter(lambda x: x['constellation'] == 'Овен', items))
-# print(filtered_items)
-# print(len(items))
-# print(len(filtered_items))
+MyModule.save(filtered_items, 3.2)
 
 # Формирование списка из полей 'age'
 ages = list(map(lambda x: float(x['age'].replace(' billion years', '')), items))
-# print(ages)
 
 # Расчет статистических характеристик
 ages_stats = MyModule.calc_stats(ages)
-# print(ages_stats)
+MyModule.save(ages_stats, 3.3)
 
 # Формирование списка из значений поля "constellation"
 constellations = list(map(lambda x: x['constellation'], items))
-# print(constellations)
 
 # Расчет частоты меток в поле "constellation"
-constellations_count = dict(collections.Counter(constellations))
-# print(constellations_count)
+constellations_counts = MyModule.properties_count_calc(constellations, 'constellation')
+MyModule.save(constellations_counts, 3.4)

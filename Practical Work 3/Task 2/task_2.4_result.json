@@ -1,0 +1,206 @@
+[
+    {
+        "model": "Fujitsu",
+        "count": 59
+    },
+    {
+        "model": "iPhone",
+        "count": 194
+    },
+    {
+        "model": "Texas",
+        "count": 60
+    },
+    {
+        "model": "Silicon",
+        "count": 72
+    },
+    {
+        "model": "Nokia",
+        "count": 62
+    },
+    {
+        "model": "Plextor",
+        "count": 59
+    },
+    {
+        "model": "Broadcom",
+        "count": 70
+    },
+    {
+        "model": "SanDisk",
+        "count": 68
+    },
+    {
+        "model": "Western",
+        "count": 53
+    },
+    {
+        "model": "Transcend",
+        "count": 52
+    },
+    {
+        "model": "Hewlett-Packard",
+        "count": 68
+    },
+    {
+        "model": "NVIDIA",
+        "count": 61
+    },
+    {
+        "model": "Samsung",
+        "count": 190
+    },
+    {
+        "model": "OPPO",
+        "count": 64
+    },
+    {
+        "model": "Xilinx",
+        "count": 68
+    },
+    {
+        "model": "Asus",
+        "count": 47
+    },
+    {
+        "model": "PNY",
+        "count": 59
+    },
+    {
+        "model": "Qualcomm",
+        "count": 72
+    },
+    {
+        "model": "ARM",
+        "count": 61
+    },
+    {
+        "model": "Acer",
+        "count": 164
+    },
+    {
+        "model": "VIVO",
+        "count": 68
+    },
+    {
+        "model": "MSI",
+        "count": 48
+    },
+    {
+        "model": "HGST",
+        "count": 60
+    },
+    {
+        "model": "ADATA",
+        "count": 71
+    },
+    {
+        "model": "Corsair",
+        "count": 71
+    },
+    {
+        "model": "Google",
+        "count": 67
+    },
+    {
+        "model": "Intel",
+        "count": 51
+    },
+    {
+        "model": "Marvell",
+        "count": 56
+    },
+    {
+        "model": "Dell",
+        "count": 131
+    },
+    {
+        "model": "Xiaomi",
+        "count": 60
+    },
+    {
+        "model": "Toshiba",
+        "count": 122
+    },
+    {
+        "model": "Alcatel",
+        "count": 67
+    },
+    {
+        "model": "LaCie",
+        "count": 61
+    },
+    {
+        "model": "OCZ",
+        "count": 64
+    },
+    {
+        "model": "AMD",
+        "count": 67
+    },
+    {
+        "model": "Huawei",
+        "count": 47
+    },
+    {
+        "model": "ZTE",
+        "count": 61
+    },
+    {
+        "model": "Sony",
+        "count": 58
+    },
+    {
+        "model": "Seagate",
+        "count": 138
+    },
+    {
+        "model": "LG",
+        "count": 46
+    },
+    {
+        "model": "Kingston",
+        "count": 60
+    },
+    {
+        "model": "HTC",
+        "count": 59
+    },
+    {
+        "model": "Micron",
+        "count": 53
+    },
+    {
+        "model": "Apple",
+        "count": 77
+    },
+    {
+        "model": "Motorola",
+        "count": 55
+    },
+    {
+        "model": "ASUS",
+        "count": 67
+    },
+    {
+        "model": "IBM",
+        "count": 54
+    },
+    {
+        "model": "Gigabyte",
+        "count": 68
+    },
+    {
+        "model": "Blackberry",
+        "count": 68
+    },
+    {
+        "model": "Lenovo",
+        "count": 146
+    },
+    {
+        "model": "Microsoft",
+        "count": 61
+    }
+]
