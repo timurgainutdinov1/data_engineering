@@ -1,0 +1,42 @@
+[
+    {
+        "floors": 1,
+        "count": 2
+    },
+    {
+        "floors": 2,
+        "count": 5
+    },
+    {
+        "floors": 3,
+        "count": 4
+    },
+    {
+        "floors": 4,
+        "count": 6
+    },
+    {
+        "floors": 5,
+        "count": 6
+    },
+    {
+        "floors": 6,
+        "count": 8
+    },
+    {
+        "floors": 7,
+        "count": 9
+    },
+    {
+        "floors": 8,
+        "count": 8
+    },
+    {
+        "floors": 9,
+        "count": 7
+    },
+    {
+        "floors": 10,
+        "count": 1
+    }
+]

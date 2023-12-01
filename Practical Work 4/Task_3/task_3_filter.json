@@ -1,0 +1,416 @@
+[
+    {
+        "id": 962,
+        "artist": "Imagine Dragons",
+        "song": "Natural",
+        "duration_ms": 189466,
+        "year": 2018,
+        "tempo": 100.0,
+        "genre": "rock"
+    },
+    {
+        "id": 1545,
+        "artist": "Panic! At The Disco",
+        "song": "High Hopes",
+        "duration_ms": 190946,
+        "year": 2018,
+        "tempo": 82.014,
+        "genre": "rock"
+    },
+    {
+        "id": 1955,
+        "artist": "MGMT",
+        "song": "Little Dark Age",
+        "duration_ms": 299960,
+        "year": 2018,
+        "tempo": 97.512,
+        "genre": "rock"
+    },
+    {
+        "id": 795,
+        "artist": "Imagine Dragons",
+        "song": "Believer",
+        "duration_ms": 204346,
+        "year": 2017,
+        "tempo": 124.982,
+        "genre": "rock"
+    },
+    {
+        "id": 1365,
+        "artist": "AJR",
+        "song": "Weak",
+        "duration_ms": 201160,
+        "year": 2017,
+        "tempo": 123.98,
+        "genre": "rock"
+    },
+    {
+        "id": 1524,
+        "artist": "Imagine Dragons",
+        "song": "Whatever It Takes",
+        "duration_ms": 201240,
+        "year": 2017,
+        "tempo": 134.945,
+        "genre": "rock"
+    },
+    {
+        "id": 1872,
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "duration_ms": 187146,
+        "year": 2017,
+        "tempo": 167.88,
+        "genre": "rock"
+    },
+    {
+        "id": 689,
+        "artist": "Twenty One Pilots",
+        "song": "Heathens",
+        "duration_ms": 195920,
+        "year": 2016,
+        "tempo": 90.024,
+        "genre": "rock"
+    },
+    {
+        "id": 369,
+        "artist": "Twenty One Pilots",
+        "song": "Ride",
+        "duration_ms": 214506,
+        "year": 2015,
+        "tempo": 74.989,
+        "genre": "rock"
+    },
+    {
+        "id": 1134,
+        "artist": "Fall Out Boy",
+        "song": "Centuries",
+        "duration_ms": 228360,
+        "year": 2015,
+        "tempo": 176.042,
+        "genre": "rock"
+    },
+    {
+        "id": 1715,
+        "artist": "Twenty One Pilots",
+        "song": "Stressed Out",
+        "duration_ms": 202333,
+        "year": 2015,
+        "tempo": 169.977,
+        "genre": "rock"
+    },
+    {
+        "id": 416,
+        "artist": "Fall Out Boy",
+        "song": "My Songs Know What You Did In The Dark (Light Em Up)",
+        "duration_ms": 186826,
+        "year": 2013,
+        "tempo": 151.99,
+        "genre": "rock"
+    },
+    {
+        "id": 859,
+        "artist": "Arctic Monkeys",
+        "song": "Why'd You Only Call Me When You're High?",
+        "duration_ms": 161123,
+        "year": 2013,
+        "tempo": 92.004,
+        "genre": "rock"
+    },
+    {
+        "id": 1023,
+        "artist": "Arctic Monkeys",
+        "song": "Do I Wanna Know?",
+        "duration_ms": 272394,
+        "year": 2013,
+        "tempo": 85.03,
+        "genre": "rock"
+    },
+    {
+        "id": 566,
+        "artist": "alt-J",
+        "song": "Breezeblocks",
+        "duration_ms": 227080,
+        "year": 2012,
+        "tempo": 150.071,
+        "genre": "rock"
+    },
+    {
+        "id": 638,
+        "artist": "Imagine Dragons",
+        "song": "Radioactive",
+        "duration_ms": 186813,
+        "year": 2012,
+        "tempo": 136.245,
+        "genre": "rock"
+    },
+    {
+        "id": 1944,
+        "artist": "Imagine Dragons",
+        "song": "Demons",
+        "duration_ms": 177506,
+        "year": 2012,
+        "tempo": 89.938,
+        "genre": "rock"
+    },
+    {
+        "id": 260,
+        "artist": "Red Hot Chili Peppers",
+        "song": "The Adventures of Rain Dance Maggie",
+        "duration_ms": 282400,
+        "year": 2011,
+        "tempo": 106.254,
+        "genre": "rock"
+    },
+    {
+        "id": 717,
+        "artist": "Alex Clare",
+        "song": "Too Close",
+        "duration_ms": 256613,
+        "year": 2011,
+        "tempo": 126.027,
+        "genre": "rock"
+    },
+    {
+        "id": 126,
+        "artist": "Kasabian",
+        "song": "Fire",
+        "duration_ms": 252279,
+        "year": 2009,
+        "tempo": 117.029,
+        "genre": "rock"
+    },
+    {
+        "id": 220,
+        "artist": "Muse",
+        "song": "Uprising",
+        "duration_ms": 304840,
+        "year": 2009,
+        "tempo": 128.019,
+        "genre": "rock"
+    },
+    {
+        "id": 1544,
+        "artist": "Green Day",
+        "song": "21 Guns",
+        "duration_ms": 321093,
+        "year": 2009,
+        "tempo": 159.779,
+        "genre": "rock"
+    },
+    {
+        "id": 1800,
+        "artist": "The xx",
+        "song": "Intro",
+        "duration_ms": 127920,
+        "year": 2009,
+        "tempo": 100.363,
+        "genre": "rock"
+    },
+    {
+        "id": 1248,
+        "artist": "Kings of Leon",
+        "song": "Sex on Fire",
+        "duration_ms": 203346,
+        "year": 2008,
+        "tempo": 153.398,
+        "genre": "rock"
+    },
+    {
+        "id": 1999,
+        "artist": "Kings of Leon",
+        "song": "Sex on Fire",
+        "duration_ms": 203346,
+        "year": 2008,
+        "tempo": 153.398,
+        "genre": "rock"
+    },
+    {
+        "id": 44,
+        "artist": "Fall Out Boy",
+        "song": "Thnks fr th Mmrs",
+        "duration_ms": 203506,
+        "year": 2007,
+        "tempo": 154.837,
+        "genre": "rock"
+    },
+    {
+        "id": 246,
+        "artist": "All Time Low",
+        "song": "Dear Maria, Count Me In",
+        "duration_ms": 182826,
+        "year": 2007,
+        "tempo": 181.04,
+        "genre": "rock"
+    },
+    {
+        "id": 446,
+        "artist": "MGMT",
+        "song": "Kids",
+        "duration_ms": 302840,
+        "year": 2007,
+        "tempo": 122.961,
+        "genre": "rock"
+    },
+    {
+        "id": 1176,
+        "artist": "Klaxons",
+        "song": "Golden Skans",
+        "duration_ms": 165120,
+        "year": 2007,
+        "tempo": 141.955,
+        "genre": "rock"
+    },
+    {
+        "id": 1243,
+        "artist": "Arctic Monkeys",
+        "song": "Brianstorm",
+        "duration_ms": 172866,
+        "year": 2007,
+        "tempo": 165.182,
+        "genre": "rock"
+    },
+    {
+        "id": 1282,
+        "artist": "Kaiser Chiefs",
+        "song": "Ruby",
+        "duration_ms": 204200,
+        "year": 2007,
+        "tempo": 93.416,
+        "genre": "rock"
+    },
+    {
+        "id": 1415,
+        "artist": "Fall Out Boy",
+        "song": "This Ain't A Scene, It's An Arms Race",
+        "duration_ms": 212040,
+        "year": 2007,
+        "tempo": 199.935,
+        "genre": "rock"
+    },
+    {
+        "id": 299,
+        "artist": "Arctic Monkeys",
+        "song": "I Bet You Look Good On The Dancefloor",
+        "duration_ms": 173680,
+        "year": 2006,
+        "tempo": 103.183,
+        "genre": "rock"
+    },
+    {
+        "id": 328,
+        "artist": "Red Hot Chili Peppers",
+        "song": "Dani California",
+        "duration_ms": 282160,
+        "year": 2006,
+        "tempo": 96.184,
+        "genre": "rock"
+    },
+    {
+        "id": 674,
+        "artist": "My Chemical Romance",
+        "song": "Welcome to the Black Parade",
+        "duration_ms": 311106,
+        "year": 2006,
+        "tempo": 96.95,
+        "genre": "rock"
+    },
+    {
+        "id": 838,
+        "artist": "Red Hot Chili Peppers",
+        "song": "Snow (Hey Oh)",
+        "duration_ms": 334666,
+        "year": 2006,
+        "tempo": 104.655,
+        "genre": "rock"
+    },
+    {
+        "id": 881,
+        "artist": "My Chemical Romance",
+        "song": "Teenagers",
+        "duration_ms": 161920,
+        "year": 2006,
+        "tempo": 111.647,
+        "genre": "rock"
+    },
+    {
+        "id": 947,
+        "artist": "The Kooks",
+        "song": "Naive",
+        "duration_ms": 203506,
+        "year": 2006,
+        "tempo": 100.304,
+        "genre": "rock"
+    },
+    {
+        "id": 994,
+        "artist": "The Raconteurs",
+        "song": "Steady, As She Goes",
+        "duration_ms": 215266,
+        "year": 2006,
+        "tempo": 123.696,
+        "genre": "rock"
+    },
+    {
+        "id": 1131,
+        "artist": "The Fratellis",
+        "song": "Chelsea Dagger",
+        "duration_ms": 215306,
+        "year": 2006,
+        "tempo": 154.514,
+        "genre": "rock"
+    },
+    {
+        "id": 1216,
+        "artist": "Muse",
+        "song": "Supermassive Black Hole",
+        "duration_ms": 212439,
+        "year": 2006,
+        "tempo": 120.0,
+        "genre": "rock"
+    },
+    {
+        "id": 1826,
+        "artist": "Arctic Monkeys",
+        "song": "When The Sun Goes Down",
+        "duration_ms": 202133,
+        "year": 2006,
+        "tempo": 169.152,
+        "genre": "rock"
+    },
+    {
+        "id": 258,
+        "artist": "Kaiser Chiefs",
+        "song": "Everyday I Love You Less And Less",
+        "duration_ms": 217706,
+        "year": 2005,
+        "tempo": 160.028,
+        "genre": "rock"
+    },
+    {
+        "id": 304,
+        "artist": "Franz Ferdinand",
+        "song": "Do You Want To",
+        "duration_ms": 215000,
+        "year": 2005,
+        "tempo": 123.091,
+        "genre": "rock"
+    },
+    {
+        "id": 348,
+        "artist": "Thirty Seconds To Mars",
+        "song": "The Kill",
+        "duration_ms": 231533,
+        "year": 2005,
+        "tempo": 182.99,
+        "genre": "rock"
+    },
+    {
+        "id": 504,
+        "artist": "Fall Out Boy",
+        "song": "Dance, Dance",
+        "duration_ms": 180266,
+        "year": 2005,
+        "tempo": 114.452,
+        "genre": "rock"
+    }
+]
