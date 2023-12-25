@@ -1,0 +1,42 @@
+[
+  {
+    "dataset_int_size_mb": 7.87
+  },
+  {
+    "converted_int_size_mb": 1.48
+  },
+  {
+    "optimization_results": [
+      {
+        "column_name": "date",
+        "before": "int64",
+        "after": "uint32"
+      },
+      {
+        "column_name": "number_of_game",
+        "before": "int64",
+        "after": "uint8"
+      },
+      {
+        "column_name": "v_game_number",
+        "before": "int64",
+        "after": "uint8"
+      },
+      {
+        "column_name": "h_game_number",
+        "before": "int64",
+        "after": "uint8"
+      },
+      {
+        "column_name": "v_score",
+        "before": "int64",
+        "after": "uint8"
+      },
+      {
+        "column_name": "h_score",
+        "before": "int64",
+        "after": "uint8"
+      }
+    ]
+  }
+]

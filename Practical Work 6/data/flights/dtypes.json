@@ -1,0 +1,12 @@
+{
+  "DATE": "uint32",
+  "DAY_OF_WEEK": "category",
+  "AIRLINE": "category",
+  "ORIGIN_AIRPORT": "category",
+  "DESTINATION_AIRPORT": "category",
+  "AIR_TIME": "float32",
+  "TAIL_NUMBER": "category",
+  "FLIGHT_NUMBER": "uint16",
+  "DISTANCE": "uint16",
+  "CANCELLED": "category"
+}

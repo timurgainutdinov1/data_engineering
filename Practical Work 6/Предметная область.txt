@@ -1,0 +1,2 @@
+Данные по шахматным играм на сайте Lichess за сентябрь 2020 года
+https://www.kaggle.com/datasets/noobiedatascientist/lichess-september-2020-data/data?select=Sept_20_analysis.csv

@@ -1,0 +1,1 @@
+[{"dataset_int_size_mb": 1.53}, {"converted_int_size_mb": 0.57}, {"optimization_results": [{"column_name": "id", "before": "int64", "after": "uint32"}, {"column_name": "area_id", "before": "int64", "after": "uint16"}]}]

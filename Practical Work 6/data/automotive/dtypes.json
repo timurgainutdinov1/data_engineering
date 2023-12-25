@@ -1,0 +1,1 @@
+{"color": "category", "brandName": "category", "vf_ModelYear": "float32", "isNew": "bool", "vf_Turbo": "category", "dealerID": "uint16", "vf_VehicleType": "category", "vf_SeatRows": "float32", "askPrice": "uint32", "vf_Model": "category"}

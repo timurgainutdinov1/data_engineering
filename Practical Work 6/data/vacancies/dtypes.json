@@ -1,0 +1,12 @@
+{
+  "schedule_id": "category",
+  "accept_handicapped": "bool",
+  "billing_type_id": "category",
+  "salary_from": "float32",
+  "salary_to": "float32",
+  "area_name": "category",
+  "prof_classes_found": "category",
+  "area_id": "uint16",
+  "address_street": "category",
+  "insider_interview": "category"
+}

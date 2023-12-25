@@ -1,0 +1,12 @@
+{
+  "Date": "category",
+  "Event": "category",
+  "Opening": "category",
+  "Result": "category",
+  "Game_type": "category",
+  "Black_mistakes": "uint8",
+  "White_mistakes": "uint8",
+  "Total_moves": "uint16",
+  "Game_flips": "uint8",
+  "Termination": "category"
+}

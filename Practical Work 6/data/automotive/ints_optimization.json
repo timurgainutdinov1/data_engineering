@@ -1,0 +1,1 @@
+[{"dataset_int_size_mb": 3.05}, {"converted_int_size_mb": 1.34}, {"optimization_results": [{"column_name": "msrp", "before": "int64", "after": "uint32"}, {"column_name": "askPrice", "before": "int64", "after": "uint32"}, {"column_name": "mileage", "before": "int64", "after": "uint32"}, {"column_name": "dealerID", "before": "int64", "after": "uint16"}]}]
