@@ -51,3 +51,11 @@ plt.title('Средняя цена по годам')
 plt.xlabel('Год')
 plt.ylabel('Цена')
 plt.savefig('graph/automotive/graph4.png', dpi=300)
+
+# Соотношение старых и новых автомобилей
+counts = dataset['isNew'].value_counts().tolist()
+labels = ['Cтарые', 'Новые']
+plt.figure()
+plt.pie(counts, labels=labels, autopct='%d%%')
+plt.title('Соотношение старых и новых автомобилей')
+plt.savefig('graph/automotive/graph5.png', dpi=300)

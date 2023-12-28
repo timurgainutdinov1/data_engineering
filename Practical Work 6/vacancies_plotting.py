@@ -41,3 +41,13 @@ plt.xlabel('area_id')
 plt.ylabel('salary_from')
 plt.title('Диаграмма рассеяния: area_id и salary_from')
 plt.savefig('graph/vacancies/graph4.png', dpi=300)
+
+# Наиболее популярные профессии в вакансиях
+plt.figure(figsize=(11, 4.8))
+popular_prof_classes = dataset['prof_classes_found'].value_counts().sort_values(ascending=False).head(10)
+plt.bar(popular_prof_classes.index, popular_prof_classes.values, zorder=2)
+plt.grid(True)
+plt.xlabel('Профессия')
+plt.ylabel('Количество вакансий')
+plt.title('Наиболее популярные профессии в вакансиях')
+plt.savefig('graph/vacancies/graph5.png', dpi=300)
